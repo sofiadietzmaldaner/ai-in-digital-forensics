@@ -4,6 +4,8 @@
 
 A literature-review article written for the Scientific Methodology course at PUCRS (2026). 📄 **The paper is written in Portuguese** (*Inteligência Artificial na Computação Forense: aplicações, desafios e explicabilidade na análise de evidências digitais*); this page summarizes it in English.
 
+📎 **Read the paper (PDF, in Portuguese):** [Artigo_Metodologia_Cientifica_redigido.pdf](Artigo_Metodologia_Cientifica_redigido.pdf)
+
 ## Abstract
 
 Digital forensics faces the challenge of analyzing ever larger and more diverse volumes of digital evidence, which has motivated the use of artificial intelligence (AI) techniques in the field. This article analyzes how AI has been applied to digital forensics and which challenges must be addressed for its results to be reliable and understandable.
